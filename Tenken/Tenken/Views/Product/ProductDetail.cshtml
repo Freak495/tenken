@@ -1,0 +1,264 @@
+﻿
+@{
+    ViewBag.Title = "Product";
+}
+    <title>@ViewBag.Product.ProductName</title>
+<div class="breadcrumbs">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <p class="bread">
+                    <span><a href="/Product/Category?categoryID=@ViewBag.Product.CategoryID">@ViewBag.Product.CategoryName</a></span> /
+                    <span>@ViewBag.Product.ProductName</span>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="colorlib-product">
+    <div class="container">
+        <div class="row row-pb-lg product-detail-wrap">
+            <div class="col-sm-8">
+                <div class="item">
+                    <div class="product-entry border">
+                        <a href="/product/productDetail?ProductID=@ViewBag.Product.ProductID" class="prod-img">
+                            <img src="../images/@ViewBag.Product.ImageName" class="img-fluid" alt="@ViewBag.Product.ProductName">
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-4">
+                <div class="product-desc">
+                    <h3>@ViewBag.Product.ProductName</h3>
+                    <p class="price" style="padding-top:40px">
+                        <span>@ViewBag.Product.Price VND</span>
+                    </p>
+                    <p style="padding-top:60px">@ViewBag.Product.Description</p>
+                    <div class="input-group mb-4">
+                        <span class="input-group-btn">
+                            <button type="button" id="quantity-left-minus" class="quantity-left-minus btn" data-type="minus" data-field="" onclick="minus()">
+                                <i class="icon-minus2"></i>
+                            </button>
+                        </span>
+                        <input type="text" id="quantity" name="quantity" class="form-control input-number" value="@ViewBag.QuantityBuy" min="1" max="100">
+                        <span class="input-group-btn ml-1">
+                            <button type="button" id="quantity-right-plus" class="quantity-right-plus btn" data-type="plus" data-field="" onclick="plus()">
+                                <i class="icon-plus2"></i>
+                            </button>
+                        </span>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            @if (@HttpContext.Current.Session["CartID"] == null)
+                            {
+                                <button class="addtocart btn btn-primary btn-addtocart" type="submit" onclick="updateCart(@ViewBag.Product.ProductID, 0, document.getElementById('quantity').value)">Add To Cart</button>
+
+                            }
+                            else
+                            {
+                                <button class="addtocart btn btn-primary btn-addtocart" type="submit" onclick="updateCart(@ViewBag.Product.ProductID,@HttpContext.Current.Session["CartID"], document.getElementById('quantity').value)">Add To Cart</button>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-md-12 pills">
+                        <div class="bd-example bd-example-tabs">
+                            <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+                                <li class="nav-item">
+                                    <a class="nav-link active" id="pills-description-tab" data-toggle="pill" href="#pills-description" role="tab" aria-controls="pills-description" aria-expanded="true">Description</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" id="pills-review-tab" data-toggle="pill" href="#pills-review" role="tab" aria-controls="pills-review" aria-expanded="true">Comment</a>
+                                </li>
+                            </ul>
+
+                            <div class="tab-content" id="pills-tabContent">
+                                <div class="tab-pane border fade show active" id="pills-description" role="tabpanel" aria-labelledby="pills-description-tab">
+                                    <p>@ViewBag.Product.Description</p>
+                                </div>
+
+                                <div class="tab-pane border fade" id="pills-review" role="tabpanel" aria-labelledby="pills-review-tab">
+                                    <div class="row">
+                                        <div class="col-md-10">
+                                            @for (var i = 0; i < ViewBag.Comment.Count; i++)
+                                            {
+                                                <div class="review">
+                                                    <div class="desc">
+                                                        <h4>
+                                                            <span class="text-left">@ViewBag.Comment[i].UserName</span>
+                                                        </h4>
+                                                        <p class="star">
+                                                            @switch ((int)@ViewBag.Comment[i].Rating)
+                                                            {
+                                                                case 0:
+                                                                    <span>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                    </span>
+                                                                    break;
+                                                                case 1:
+                                                                    <span>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                    </span>
+                                                                    break;
+                                                                case 2:
+                                                                    <span>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                    </span>
+                                                                    break;
+                                                                case 3:
+                                                                    <span>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                    </span>
+                                                                    break;
+                                                                case 4:
+                                                                    <span>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-empty"></i>
+                                                                    </span>
+                                                                    break;
+                                                                case 5:
+                                                                    <span>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                        <i class="icon-star-full"></i>
+                                                                    </span>
+                                                                    break;
+                                                            }
+                                                            @*<span class="text-right"><a href="#" class="reply"><i class="icon-reply"></i></a></span>*@
+                                                        </p>
+                                                        <p>@ViewBag.Comment[i].Content</p>
+                                                    </div>
+                                                </div>
+                                            }
+                                            @if (HttpContext.Current.Session["UserID"] != null && int.Parse(HttpContext.Current.Session["UserID"].ToString()) > 0)
+                                            {
+                                                <div class="review">
+                                                    <div class="desc">
+                                                        <h4>
+                                                            <span class="text-left">@HttpContext.Current.Session["UserName"].ToString()</span>
+                                                        </h4>
+                                                        <div class="star">
+                                                            <span id="rating">
+                                                                <i class="icon-star-empty" id="star-1" onclick="rating(1)"></i>
+                                                                <i class="icon-star-empty" id="star-2" onclick="rating(2)"></i>
+                                                                <i class="icon-star-empty" id="star-3" onclick="rating(3)"></i>
+                                                                <i class="icon-star-empty" id="star-4" onclick="rating(4)"></i>
+                                                                <i class="icon-star-empty" id="star-5" onclick="rating(5)"></i>
+                                                            </span>
+                                                        </div>
+                                                        <div class="star">
+                                                            <input class="effect-13" id="comment-content" type="text" placeholder="Comment">
+                                                            <button class="btn btn-primary" style="margin-top:10px;" onclick="comment(document.getElementById('comment-content').value,@ViewBag.Product.ProductID,@HttpContext.Current.Session["UserID"].ToString())">Comment</button>
+                                                            <span class="focus-bg"></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            }
+                                            else
+                                            {
+                                                <p>Please <a href="/Home/Login">Login</a> to comment</p>
+                                            }
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="../js/product/productDetail.js"></script>
+<style>
+    :focus {
+        outline: none;
+    }
+
+    /* necessary to give position: relative to parent. */
+    input[type="text"] {
+        font: 15px/24px 'Muli', sans-serif;
+        color: #333;
+        width: 100%;
+        box-sizing: border-box;
+        letter-spacing: 1px;
+    }
+
+    :focus {
+        outline: none;
+    }
+
+    .col-3 {
+        float: left;
+        width: 27.33%;
+        margin: 40px 3%;
+        position: relative;
+    }
+    /* necessary to give position: relative to parent. */
+    input[type="text"] {
+        font: 15px/24px "Lato", Arial, sans-serif;
+        color: #333;
+        width: 100%;
+        box-sizing: border-box;
+        letter-spacing: 1px;
+    }
+
+    .effect-13 {
+        max-width: 100% !important;
+    }
+
+        .effect-13 ~ .focus-bg:before,
+        .effect-13 ~ .focus-bg:after {
+            content: "";
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 0;
+            height: 100%;
+            background-color: #ededed;
+            transition: 0.3s;
+            z-index: -1;
+        }
+
+        .effect-13:focus ~ .focus-bg:before {
+            transition: 0.3s;
+            width: 50%;
+        }
+
+        .effect-13 ~ .focus-bg:after {
+            left: auto;
+            right: 0;
+        }
+
+        .effect-13:focus ~ .focus-bg:after {
+            transition: 0.3s;
+            width: 50%;
+        }
+</style>
+

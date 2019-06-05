@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<title>Admin Login</title>
+<div id="main-panel">
+    <div class="content" style="top: 0px;">
+        <h2 class="title">Login</h2>
+        <form id="login-form" class="loginForm" method="post">
+            @if (ViewBag.Error)
+            {
+                <p class="arlet">User Name or Password is invalid</p>
+            }
+            <div id="line-account" class="line">
+                <input id="sso_login_form_account" name="username" type="text" placeholder="User Name" autocorrect="off" autocapitalize="off" value="@ViewBag.UserName">
+            </div>
+            <div id="line-password" class="line">
+                <input id="sso_login_form_password" name="password" type="password" placeholder="Password" value="@ViewBag.Password">
+            </div>
+            <div id="line-btn" class="line btnLine">
+                <input id="btn btn-primary confirm-btn" type="submit" value="Login" class="btn">
+            </div>
+        </form>
+    </div>
+</div>
+<link rel="stylesheet" href="../css/login.css">

@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7315b48-f47b-4055-b148-a9a252fc87c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/esm/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Scripts/umd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Globalization.Calendars.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/images/Test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/images/ZXczx.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/Microsoft.AspNet.Razor.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.Razor.3.2.7/lib/net45/System.Web.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/Microsoft.AspNet.TelemetryCorrelation.1.0.5.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/content/web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/content/web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/lib/net45/Microsoft.AspNet.TelemetryCorrelation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/Microsoft.AspNet.WebApi.Client.5.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/net45/System.Net.Http.Formatting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/netstandard2.0/System.Net.Http.Formatting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Client.5.2.7/lib/portable-wp8+netcore45+net45+wp81+wpa81/System.Net.Http.Formatting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.7/Content/web.config.transform" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.7/Microsoft.AspNet.WebApi.Core.5.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebApi.Core.5.2.7/lib/net45/System.Web.Http.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.install.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Content/Web.config.uninstall.xdt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/Microsoft.AspNet.WebPages.3.2.7.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.Helpers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.Razor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.WebPages.3.2.7/lib/net45/System.Web.WebPages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Win32.Primitives.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Collections.Immutable.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.ZipFile.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Http.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Net.Sockets.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Reflection.Metadata.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Runtime.InteropServices.RuntimeInformation.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Threading.Tasks.Extensions.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/install.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/net45/uninstall.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Microsoft.jQuery.Unobtrusive.Validation.3.2.11.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/Newtonsoft.Json.12.0.2.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.3/Newtonsoft.Json.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/LICENSE.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/System.Diagnostics.DiagnosticSource.4.5.0.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/net45/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/net46/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/System.Diagnostics.DiagnosticSource.4.5.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net45/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/net46/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/version.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/bootstrap.4.3.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/content/Scripts/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Content/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/contentFiles/Scripts/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1-vsdoc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.min.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/jQuery.3.4.1.nupkg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/.signature.p7s" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/esm/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper-utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper-utils.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper-utils.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper-utils.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/content/Scripts/umd/popper.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/popper.js.1.14.0/popper.js.1.14.0.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Database.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../Database.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Content/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Content/bootstrap.min.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Content/Scripts/jquery-3.4.1.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.3.1.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Tenken.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Tenken.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Web.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Web.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Microsoft.AspNet.TelemetryCorrelation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Microsoft.AspNet.TelemetryCorrelation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Microsoft.AspNet.TelemetryCorrelation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Microsoft.AspNet.TelemetryCorrelation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Diagnostics.DiagnosticSource.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Net.Http.Formatting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Net.Http.Formatting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Net.Http.Formatting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Net.Http.Formatting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Helpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Helpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Helpers.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Helpers.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Http.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Http.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Http.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Http.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Mvc.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Mvc.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Razor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Razor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.Razor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.Razor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Deployment.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Deployment.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Deployment.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Razor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Razor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Razor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.Razor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/System.Web.WebPages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CSharp.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.Managed.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.Managed.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.VisualBasic.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.AppContext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.AppContext.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Collections.Immutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Collections.Immutable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Diagnostics.StackTrace.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.Compression.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.Compression.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.FileSystem.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.FileSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.IO.FileSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Reflection.Metadata.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Reflection.Metadata.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Encoding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Text.Encoding.CodePages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.ValueTuple.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.ValueTuple.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.ReaderWriter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XPath.XDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XPath.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XPath.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XmlDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/VBCSCompiler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/VBCSCompiler.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/VBCSCompiler.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/VBCSCompiler.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/csi.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/roslyn/vbc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/js/api/menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/js/api/menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.0/Microsoft.AspNet.TelemetryCorrelation.1.0.0.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.0/content/net45/web.config.install.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.0/content/net45/web.config.uninstall.xdt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.0/lib/net45/Microsoft.AspNet.TelemetryCorrelation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.0/lib/net45/Microsoft.AspNet.TelemetryCorrelation.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.AspNet.TelemetryCorrelation.1.0.5/lib/net45/Microsoft.AspNet.TelemetryCorrelation.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/.signature.p7s" beforeDir="false" afterPath="$PROJECT_DIR$/packages/bootstrap.4.3.1/.signature.p7s" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0.nupkg" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1.nupkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.install.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.install.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/app.config.uninstall.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.uninstall.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.install.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.install.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net45/web.config.uninstall.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/web.config.uninstall.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.install.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/app.config.install.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/app.config.uninstall.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net45/app.config.uninstall.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.install.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.install.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/content/net46/web.config.uninstall.xdt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/content/net46/web.config.uninstall.xdt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/lib/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.Build.Tasks.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CSharp.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.VisualBasic.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/Microsoft.VisualBasic.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.AppContext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.AppContext.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Collections.Immutable.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Collections.Immutable.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Diagnostics.StackTrace.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.IO.FileSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.IO.FileSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/System.Reflection.Metadata.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/System.Reflection.Metadata.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/VBCSCompiler.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/VBCSCompiler.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/csi.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/csi.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/Roslyn45/vbc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/Roslyn45/vbc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Build.Tasks.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CSharp.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CSharp.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.VisualBasic.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.CodeAnalysis.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.amd64.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.DiaSymReader.Native.x86.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.Managed.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.Managed.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/Microsoft.VisualBasic.Core.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.AppContext.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.AppContext.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Collections.Immutable.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Console.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Console.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.FileVersionInfo.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Diagnostics.StackTrace.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Diagnostics.StackTrace.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Compression.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.Compression.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.FileSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.IO.FileSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.IO.Pipes.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Reflection.Metadata.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.AccessControl.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Claims.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Algorithms.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Encoding.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.Primitives.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Principal.Windows.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Globalization.Calendars.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Text.Encoding.CodePages.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Text.Encoding.CodePages.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.ValueTuple.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.ValueTuple.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.ReaderWriter.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.ReaderWriter.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.XDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.XDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XPath.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XPath.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Xml.XmlDocument.dll" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/System.Xml.XmlDocument.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/VBCSCompiler.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/VBCSCompiler.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/csi.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/csi.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.exe.config" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.exe.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/vbc.rsp" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1/tools/RoslynLatest/vbc.rsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/install.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/net45/uninstall.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.4/Content/Scripts/jquery.validate.unobtrusive.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.11/Content/Scripts/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.4/Content/Scripts/jquery.validate.unobtrusive.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Microsoft.jQuery.Unobtrusive.Validation.3.2.4/Microsoft.jQuery.Unobtrusive.Validation.3.2.4.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/LICENSE.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/LICENSE.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/Newtonsoft.Json.11.0.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net20/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net20/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net20/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net35/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net35/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net40/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net40/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net40/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net35/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net45/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/net45/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard2.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.0/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/netstandard1.0/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.3/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard1.3/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard2.0/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/netstandard2.0/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/net45/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net40%2Bsl5%2Bwin8%2Bwp8%2Bwpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net40%2Bsl5%2Bwin8%2Bwp8%2Bwpa81/Newtonsoft.Json.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/Newtonsoft.Json.12.0.2/lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net45%2Bwin8%2Bwp8%2Bwpa81/Newtonsoft.Json.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/Newtonsoft.Json.11.0.1/lib/portable-net45%2Bwin8%2Bwp8%2Bwpa81/Newtonsoft.Json.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/LICENSE.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/LICENSE.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/System.Diagnostics.DiagnosticSource.4.4.1.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/THIRD-PARTY-NOTICES.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/THIRD-PARTY-NOTICES.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/net45/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/net45/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/net46/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/net46/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/net46/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/portable-net45+win8+wpa81/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/netcoreapp2.0/_._" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.1/useSharedDesignerContext.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/netstandard1.1/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/netstandard1.3/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/lib/net45/System.Diagnostics.DiagnosticSource.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/portable-net45%2Bwin8%2Bwpa81/System.Diagnostics.DiagnosticSource.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/lib/portable-net45%2Bwin8%2Bwpa81/System.Diagnostics.DiagnosticSource.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/ref/netcoreapp2.0/_._" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/useSharedDesignerContext.txt" beforeDir="false" afterPath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.5.0/useSharedDesignerContext.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/System.Diagnostics.DiagnosticSource.4.4.1/version.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/bootstrap.3.3.7.nupkg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Content/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Scripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/Scripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/bootstrap.3.3.7/content/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1-vsdoc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1-vsdoc.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Scripts/jquery-3.4.1.slim.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Content/Scripts/jquery-3.3.1.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/common.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Tools/common.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/install.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Tools/install.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/jquery-3.3.1.intellisense.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Tools/jquery-3.4.1.intellisense.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/Tools/uninstall.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/packages/jQuery.3.4.1/Tools/uninstall.ps1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/jQuery.3.3.1/jQuery.3.3.1.nupkg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+              <folding>
+                <marker date="1558856150945" expanded="true" signature="1:36" ph="@..." />
+                <marker date="1558856150945" expanded="true" signature="2496:3174" ph="@..." />
+                <marker date="1558856150945" expanded="true" signature="2548:2827" ph="{...}" />
+                <marker date="1558856150945" expanded="true" signature="2860:3174" ph="{...}" />
+                <marker date="1558856150945" expanded="true" signature="4862:10996" ph="@..." />
+                <marker date="1558856150945" expanded="true" signature="4910:10996" ph="{...}" />
+                <marker date="1558856150945" expanded="true" signature="5473:10531" ph="@..." />
+                <marker date="1558856150945" expanded="true" signature="5514:10531" ph="{...}" />
+                <marker date="1558856150945" expanded="true" signature="11041:13591" ph="@..." />
+                <marker date="1558856150945" expanded="true" signature="11159:13345" ph="{...}" />
+                <marker date="1558856150945" expanded="true" signature="13394:13591" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <folding>
+                <marker date="1559738170640" expanded="true" signature="1:84" ph="@..." />
+                <marker date="1559738170640" expanded="true" signature="530:994" ph="@..." />
+                <marker date="1559738170640" expanded="true" signature="552:994" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="1072:6331" ph="@..." />
+                <marker date="1559738170640" expanded="true" signature="1094:6331" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="1515:1699" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="1724:2712" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="1809:2690" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="3051:3235" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="3260:4127" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="3345:4105" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="4727:4911" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="4936:6289" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="5021:6267" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="6367:6716" ph="@..." />
+                <marker date="1559738170640" expanded="true" signature="6398:6716" ph="{...}" />
+                <marker date="1559738170640" expanded="true" signature="6443:6712" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="76" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
+              <folding>
+                <marker date="1558856372680" expanded="true" signature="2474:3009" ph="@..." />
+                <marker date="1558856372680" expanded="true" signature="2525:2755" ph="{...}" />
+                <marker date="1558856372680" expanded="true" signature="2800:3009" ph="{...}" />
+                <marker date="1558856372680" expanded="true" signature="3343:3948" ph="@..." />
+                <marker date="1558856372680" expanded="true" signature="3394:3676" ph="{...}" />
+                <marker date="1558856372680" expanded="true" signature="3721:3948" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tenken/js/api/menu.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tenken/js/product/productDetail.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+              <folding>
+                <marker date="1558856490936" expanded="true" signature="468:698" ph="@..." />
+                <marker date="1558856490936" expanded="true" signature="490:595" ph="{...}" />
+                <marker date="1558856490936" expanded="true" signature="616:698" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>langv</find>
+      <find>razor</find>
+      <find>typemen</find>
+      <find>;</find>
+      <find>homeIndex</find>
+      <find>globalfu</find>
+      <find>bootstrap</find>
+      <find>addtocart btn btn-primary btn-addtocart</find>
+      <find>colorlib-product</find>
+      <find>rating(1)</find>
+      <find>rating</find>
+      <find>/home/in</find>
+      <find>@switch</find>
+      <find>viewbag.type</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Shared/Error.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/ProductAdmin.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/CategoryAdmin.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/645A2306-7666-447E-988A-50155FE857F4/a4/b5309e87/Server.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/UserAdmin.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Home/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/AdminController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Home/Login.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CommentAPIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CartAPIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Providers/CartProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Web.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Common/DBProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Global.asax" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BC1086D-33D8-4331-BE15-9596882BCF5B/b5/c4c34f1f/WebViewPage.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Tenken/Tenken.csproj" />
+        <option value="$PROJECT_DIR$/Tenken/Web.config" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Web.config" />
+        <option value="$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/js/common/globalFunc.js" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/js/product/productDetail.js" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/js/api/menu.js" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="9" />
+    <option name="y" value="32" />
+    <option name="width" value="1422" />
+    <option name="height" value="807" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tenken" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tenken" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="MONO_MANAGED_WATCHER" value="y" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Tenken/Tenken.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+      <browser url="http://127.0.0.1:5000/" start="true" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7315b48-f47b-4055-b148-a9a252fc87c8" name="Default Changelist" comment="" />
+      <created>1558842952110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558842952110</updated>
+      <workItem from="1558842954833" duration="11934000" />
+      <workItem from="1558861136210" duration="102000" />
+      <workItem from="1559738086576" duration="136000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12172000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25679544" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="REST Client" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Performance Profiler" order="7" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32833788" />
+      <window_info anchor="bottom" id="NuGet" order="9" weight="0.9590723" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" />
+      <window_info anchor="bottom" id="Run" order="12" weight="0.21282402" />
+      <window_info anchor="bottom" id="Debug" order="13" weight="0.23841962" />
+      <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="16" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CartAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="233:1892" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="283:1890" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="464:547" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="653:770" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="894:1027" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1148:1234" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1339:1424" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1547:1636" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1750:1884" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Global.asax">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="618">
+          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="21" selection-start-column="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:80" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="157:2807" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="199:377" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="413:604" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="436:494" ph="/* ViewBag.Email = &quot;&quot;; ... */" />
+            <marker date="1558841070498" expanded="true" signature="689:1276" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="843:1074" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1091:1266" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1315:1554" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1694:2594" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1752:1834" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1896:1992" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2053:2135" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2256:2332" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2349:2432" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2631:2801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="23" column="72" selection-start-line="23" selection-end-line="24" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="233:2182" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="286:2180" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="498:792" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="596:755" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="907:988" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1108:1204" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1330:1453" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1597:1700" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1844:1935" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2050:2174" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Common/DBProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+          <folding>
+            <marker date="1558841070490" expanded="false" signature="6:106" ph="..." />
+            <marker date="1558841070490" expanded="true" signature="134:1274" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="162:1272" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="270:722" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="318:679" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="468:559" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="596:665" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="776:1266" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="1102:1190" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
+          <folding>
+            <marker date="1558848335167" expanded="false" signature="6:213" ph="..." />
+            <marker date="1558848335167" expanded="true" signature="244:9354" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="279:9352" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="374:1792" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="456:1604" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="851:1590" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1636:1726" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1875:3205" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1945:3017" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="2336:3003" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3049:3139" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3320:4808" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3402:4620" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3867:4606" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4652:4742" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4905:6333" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4987:6145" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="5392:6131" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6177:6267" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6419:8082" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6495:7760" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="7792:8016" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="8167:9346" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="8243:9024" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="9056:9280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Tenken.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Providers/CartProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <marker date="1558841070501" expanded="false" signature="6:164" ph="..." />
+            <marker date="1558841070501" expanded="true" signature="195:9724" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="227:9722" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="303:1808" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="389:1407" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="776:1393" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="1439:1529" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="1684:1771" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="1882:3122" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="1944:1999" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="2016:2934" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="2401:2920" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="2966:3056" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="3209:4417" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="3295:4229" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="3686:4215" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="4261:4351" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="4523:5841" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="4599:5520" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="5552:5775" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="5927:7538" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="6003:7217" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="7249:7472" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="7612:8360" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="7666:8175" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="8054:8161" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="8207:8294" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="8462:9716" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="8538:9395" ph="{...}" />
+            <marker date="1558841070501" expanded="true" signature="9427:9650" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1BC1086D-33D8-4331-BE15-9596882BCF5B/b5/c4c34f1f/WebViewPage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="96" column="18" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/AdminController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="35">
+          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
+          <folding>
+            <marker date="1558841070497" expanded="false" signature="6:177" ph="..." />
+            <marker date="1558841070497" expanded="true" signature="255:7683" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="297:716" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="414:612" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="629:706" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="752:1113" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="869:946" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="963:1103" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1200:1786" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1450:1578" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1595:1776" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1824:2073" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1941:2017" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2123:3013" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2240:2908" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2288:2767" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2925:3002" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3063:3330" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3102:3173" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3190:3293" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3430:3947" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3556:3624" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3641:3717" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3765:3876" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4005:4387" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4048:4219" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4236:4350" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4485:5089" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4555:4655" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4766:4834" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4851:4927" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5145:5580" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5187:5264" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5281:5391" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5628:5841" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5723:5831" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5893:6004" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6175:7677" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6249:6664" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6721:7031" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7147:7215" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7232:7308" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7445:7640" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7523:7626" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="111" column="42" selection-start-line="111" selection-start-column="42" selection-end-line="111" selection-end-column="42" />
+          <folding>
+            <marker date="1558856150942" expanded="true" signature="2064:2272" ph="@..." />
+            <marker date="1558856150942" expanded="true" signature="2121:2272" ph="{...}" />
+            <marker date="1558856150942" expanded="true" signature="2351:3080" ph="@..." />
+            <marker date="1558856150942" expanded="true" signature="2408:3080" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1558841070530" expanded="true" signature="0:50" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/Error.cshtml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/ProductAdmin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1700">
+          <folding>
+            <marker date="1558856093377" expanded="true" signature="1:92" ph="@..." />
+            <marker date="1558856093377" expanded="true" signature="94:377" ph="@..." />
+            <marker date="1558856093377" expanded="true" signature="150:377" ph="{...}" />
+            <marker date="1558856093377" expanded="true" signature="864:995" ph="@..." />
+            <marker date="1558856093377" expanded="true" signature="891:995" ph="{...}" />
+            <marker date="1558856093377" expanded="true" signature="2452:2824" ph="@..." />
+            <marker date="1558856093377" expanded="true" signature="2489:2615" ph="{...}" />
+            <marker date="1558856093377" expanded="true" signature="2648:2824" ph="{...}" />
+            <marker date="1558856093377" expanded="true" signature="2853:3271" ph="@..." />
+            <marker date="1558856093377" expanded="true" signature="2906:3271" ph="{...}" />
+            <marker date="1558856093377" expanded="true" signature="3038:3241" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/UserAdmin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+          <folding>
+            <element signature="n#div#0;n#!!top" />
+            <marker date="1558841070527" expanded="true" signature="0:88" ph="@..." />
+            <marker date="1558841070527" expanded="true" signature="90:375" ph="@..." />
+            <marker date="1558841070527" expanded="true" signature="146:375" ph="{...}" />
+            <marker date="1558841070527" expanded="true" signature="809:940" ph="@..." />
+            <marker date="1558841070527" expanded="true" signature="836:940" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/CategoryAdmin.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1558841070526" expanded="true" signature="1:93" ph="@..." />
+            <marker date="1558841070526" expanded="true" signature="95:380" ph="@..." />
+            <marker date="1558841070526" expanded="true" signature="151:380" ph="{...}" />
+            <marker date="1558841070526" expanded="true" signature="588:830" ph="@..." />
+            <marker date="1558841070526" expanded="true" signature="647:730" ph="{...}" />
+            <marker date="1558841070526" expanded="true" signature="751:830" ph="{...}" />
+            <marker date="1558841070526" expanded="true" signature="1038:1169" ph="@..." />
+            <marker date="1558841070526" expanded="true" signature="1065:1169" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CommentAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="233:1315" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="286:1313" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="489:580" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="692:782" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="944:1307" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1011:1196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/common/adminMenu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/645A2306-7666-447E-988A-50155FE857F4/a4/b5309e87/Server.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2205">
+          <caret line="157" column="8" selection-start-line="157" selection-start-column="8" selection-end-line="157" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="76" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
+          <folding>
+            <marker date="1558856372680" expanded="true" signature="2474:3009" ph="@..." />
+            <marker date="1558856372680" expanded="true" signature="2525:2755" ph="{...}" />
+            <marker date="1558856372680" expanded="true" signature="2800:3009" ph="{...}" />
+            <marker date="1558856372680" expanded="true" signature="3343:3948" ph="@..." />
+            <marker date="1558856372680" expanded="true" signature="3394:3676" ph="{...}" />
+            <marker date="1558856372680" expanded="true" signature="3721:3948" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/api/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+          <folding>
+            <marker date="1558856490936" expanded="true" signature="468:698" ph="@..." />
+            <marker date="1558856490936" expanded="true" signature="490:595" ph="{...}" />
+            <marker date="1558856490936" expanded="true" signature="616:698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/product/productDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
+          <folding>
+            <marker date="1558856150945" expanded="true" signature="1:36" ph="@..." />
+            <marker date="1558856150945" expanded="true" signature="2496:3174" ph="@..." />
+            <marker date="1558856150945" expanded="true" signature="2548:2827" ph="{...}" />
+            <marker date="1558856150945" expanded="true" signature="2860:3174" ph="{...}" />
+            <marker date="1558856150945" expanded="true" signature="4862:10996" ph="@..." />
+            <marker date="1558856150945" expanded="true" signature="4910:10996" ph="{...}" />
+            <marker date="1558856150945" expanded="true" signature="5473:10531" ph="@..." />
+            <marker date="1558856150945" expanded="true" signature="5514:10531" ph="{...}" />
+            <marker date="1558856150945" expanded="true" signature="11041:13591" ph="@..." />
+            <marker date="1558856150945" expanded="true" signature="11159:13345" ph="{...}" />
+            <marker date="1558856150945" expanded="true" signature="13394:13591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+          <folding>
+            <marker date="1559738170640" expanded="true" signature="1:84" ph="@..." />
+            <marker date="1559738170640" expanded="true" signature="530:994" ph="@..." />
+            <marker date="1559738170640" expanded="true" signature="552:994" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="1072:6331" ph="@..." />
+            <marker date="1559738170640" expanded="true" signature="1094:6331" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="1515:1699" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="1724:2712" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="1809:2690" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="3051:3235" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="3260:4127" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="3345:4105" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="4727:4911" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="4936:6289" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="5021:6267" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="6367:6716" ph="@..." />
+            <marker date="1559738170640" expanded="true" signature="6398:6716" ph="{...}" />
+            <marker date="1559738170640" expanded="true" signature="6443:6712" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

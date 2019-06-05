@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_Tenken.-2022449684.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="tenken" t="IncludeRecursive">
+        <e p="App_Data" t="Include" />
+        <e p="App_Start" t="Include">
+          <e p="BundleConfig.cs" t="Include" />
+          <e p="FilterConfig.cs" t="Include" />
+          <e p="RouteConfig.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Common" t="Include">
+          <e p="DBProvider.cs" t="Include" />
+          <e p="TkConstant.cs" t="Include" />
+        </e>
+        <e p="Content" t="Include">
+          <e p="bootstrap-grid.css" t="Include" />
+          <e p="bootstrap-grid.css.map" t="Include" />
+          <e p="bootstrap-grid.min.css" t="Include" />
+          <e p="bootstrap-grid.min.css.map" t="Include" />
+          <e p="bootstrap-reboot.css" t="Include" />
+          <e p="bootstrap-reboot.css.map" t="Include" />
+          <e p="bootstrap-reboot.min.css" t="Include" />
+          <e p="bootstrap-reboot.min.css.map" t="Include" />
+          <e p="bootstrap.css" t="Include" />
+          <e p="bootstrap.css.map" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="bootstrap.min.css.map" t="Include" />
+          <e p="Site.css" t="Include" />
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="AdminController.cs" t="Include" />
+          <e p="CartAPIController.cs" t="Include" />
+          <e p="CartController.cs" t="Include" />
+          <e p="CategoryAPIController.cs" t="Include" />
+          <e p="CommentAPIController.cs" t="Include" />
+          <e p="HomeController.cs" t="Include" />
+          <e p="ProductAPIController.cs" t="Include" />
+          <e p="ProductController.cs" t="Include" />
+          <e p="UserAPIController.cs" t="Include" />
+        </e>
+        <e p="css" t="Include">
+          <e p="admin.css" t="Include" />
+          <e p="animate.css" t="Include" />
+          <e p="bootstrap-datepicker.css" t="Include" />
+          <e p="bootstrap.min.css" t="Include" />
+          <e p="css" t="Include">
+            <e p="bootstrap-reboot.css" t="Include" />
+            <e p="mixins" t="Include">
+              <e p="_text-hide.css" t="Include" />
+            </e>
+          </e>
+          <e p="flaticon.css" t="Include" />
+          <e p="flexslider.css" t="Include" />
+          <e p="font-awesome.min.css" t="Include" />
+          <e p="icomoon.css" t="Include" />
+          <e p="ionicons.min.css" t="Include" />
+          <e p="jquery-ui.min.css" t="Include" />
+          <e p="login.css" t="Include" />
+          <e p="magnific-popup.css" t="Include" />
+          <e p="owl.carousel.min.css" t="Include" />
+          <e p="owl.theme.default.min.css" t="Include" />
+          <e p="slicknav.min.css" t="Include" />
+          <e p="style.css" t="Include" />
+          <e p="style.css.map" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="Global.asax" t="Include" />
+        <e p="Global.asax.cs" t="Include" />
+        <e p="icon-fonts" t="Include">
+          <e p="Flaticon.eot" t="Include" />
+          <e p="Flaticon.svg" t="Include" />
+          <e p="Flaticon.ttf" t="Include" />
+          <e p="Flaticon.woff" t="Include" />
+          <e p="fontawesome-webfont.eot" t="Include" />
+          <e p="fontawesome-webfont.svg" t="Include" />
+          <e p="fontawesome-webfont.woff" t="Include" />
+          <e p="fontawesome-webfont.woff2" t="Include" />
+        </e>
+        <e p="img" t="Include">
+          <e p="arrow-down.png" t="Include" />
+          <e p="arrow-up.png" t="Include" />
+          <e p="banner-bg.jpg" t="Include" />
+          <e p="bg-2.jpg" t="Include" />
+          <e p="bg.jpg" t="Include" />
+          <e p="blog-thumbs" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+          </e>
+          <e p="cards.png" t="Include" />
+          <e p="cart" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+          <e p="icons" t="Include">
+            <e p="1.png" t="Include" />
+            <e p="2.png" t="Include" />
+            <e p="3.png" t="Include" />
+          </e>
+          <e p="logo-light.png" t="Include" />
+          <e p="logo.png" t="Include" />
+          <e p="mastercart.png" t="Include" />
+          <e p="paypal.png" t="Include" />
+          <e p="product" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="10.jpg" t="Include" />
+            <e p="11.jpg" t="Include" />
+            <e p="12.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="4.jpg" t="Include" />
+            <e p="5.jpg" t="Include" />
+            <e p="6.jpg" t="Include" />
+            <e p="7.jpg" t="Include" />
+            <e p="8.jpg" t="Include" />
+            <e p="9.jpg" t="Include" />
+          </e>
+          <e p="single-product" t="Include">
+            <e p="1.jpg" t="Include" />
+            <e p="2.jpg" t="Include" />
+            <e p="3.jpg" t="Include" />
+            <e p="4.jpg" t="Include" />
+            <e p="thumb-1.jpg" t="Include" />
+            <e p="thumb-2.jpg" t="Include" />
+            <e p="thumb-3.jpg" t="Include" />
+            <e p="thumb-4.jpg" t="Include" />
+          </e>
+        </e>
+        <e p="js" t="Include">
+          <e p="aos.js" t="Include" />
+          <e p="api" t="Include">
+            <e p="menu.js" t="Include" />
+          </e>
+          <e p="bootstrap-datepicker.js" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="Common" t="Include">
+            <e p="adminMenu.js" t="Include" />
+            <e p="globalFunc.js" t="Include" />
+          </e>
+          <e p="google_map.js" t="Include" />
+          <e p="home" t="Include">
+            <e p="register.js" t="Include" />
+          </e>
+          <e p="jquery-3.2.1.min.js" t="Include" />
+          <e p="jquery-migrate-3.0.1.min.js" t="Include" />
+          <e p="jquery-ui.min.js" t="Include" />
+          <e p="jquery.animateNumber.min.js" t="Include" />
+          <e p="jquery.countTo.js" t="Include" />
+          <e p="jquery.easing.1.3.js" t="Include" />
+          <e p="jquery.flexslider-min.js" t="Include" />
+          <e p="jquery.magnific-popup.min.js" t="Include" />
+          <e p="jquery.min.js" t="Include" />
+          <e p="jquery.nicescroll.min.js" t="Include" />
+          <e p="jquery.slicknav.min.js" t="Include" />
+          <e p="jquery.stellar.min.js" t="Include" />
+          <e p="jquery.waypoints.min.js" t="Include" />
+          <e p="jquery.zoom.min.js" t="Include" />
+          <e p="magnific-popup-options.js" t="Include" />
+          <e p="main.js" t="Include" />
+          <e p="map.js" t="Include" />
+          <e p="owl.carousel.min.js" t="Include" />
+          <e p="popper.min.js" t="Include" />
+          <e p="product" t="Include">
+            <e p="productDetail.js" t="Include" />
+          </e>
+          <e p="respond.min.js" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Address.cs" t="Include" />
+          <e p="Cart.cs" t="Include" />
+          <e p="CartItem.cs" t="Include" />
+          <e p="Category.cs" t="Include" />
+          <e p="Comment.cs" t="Include" />
+          <e p="HttpResult.cs" t="Include" />
+          <e p="Order.cs" t="Include" />
+          <e p="OrderItem.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+          <e p="UserInfo.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Providers" t="Include">
+          <e p="CartProvider.cs" t="Include" />
+          <e p="CategoryProvider.cs" t="Include" />
+          <e p="CommentProvider.cs" t="Include" />
+          <e p="ProductProvider.cs" t="Include" />
+          <e p="UserManagerProvider.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="bootstrap.bundle.js" t="Include" />
+          <e p="bootstrap.bundle.js.map" t="Include" />
+          <e p="bootstrap.bundle.min.js" t="Include" />
+          <e p="bootstrap.bundle.min.js.map" t="Include" />
+          <e p="bootstrap.js" t="Include" />
+          <e p="bootstrap.js.map" t="Include" />
+          <e p="bootstrap.min.js" t="Include" />
+          <e p="bootstrap.min.js.map" t="Include" />
+          <e p="esm" t="Include">
+            <e p="popper-utils.js" t="Include" />
+            <e p="popper-utils.js.map" t="Include" />
+            <e p="popper-utils.min.js" t="Include" />
+            <e p="popper-utils.min.js.map" t="Include" />
+            <e p="popper.js" t="Include" />
+            <e p="popper.js.map" t="Include" />
+            <e p="popper.min.js" t="Include" />
+            <e p="popper.min.js.map" t="Include" />
+          </e>
+          <e p="index.d.ts" t="Include" />
+          <e p="jquery-3.3.1.intellisense.js" t="Include" />
+          <e p="jquery-3.4.1-vsdoc.js" t="Include" />
+          <e p="jquery-3.4.1.js" t="Include" />
+          <e p="jquery-3.4.1.min.js" t="Include" />
+          <e p="jquery-3.4.1.min.map" t="Include" />
+          <e p="jquery-3.4.1.slim.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.js" t="Include" />
+          <e p="jquery-3.4.1.slim.min.map" t="Include" />
+          <e p="jquery.validate-vsdoc.js" t="Include" />
+          <e p="jquery.validate.js" t="Include" />
+          <e p="jquery.validate.min.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.js" t="Include" />
+          <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+          <e p="modernizr-2.8.3.js" t="Include" />
+          <e p="popper-utils.js" t="Include" />
+          <e p="popper-utils.js.map" t="Include" />
+          <e p="popper-utils.min.js" t="Include" />
+          <e p="popper-utils.min.js.map" t="Include" />
+          <e p="popper.js" t="Include" />
+          <e p="popper.js.map" t="Include" />
+          <e p="popper.min.js" t="Include" />
+          <e p="popper.min.js.map" t="Include" />
+          <e p="README.md" t="Include" />
+          <e p="umd" t="Include">
+            <e p="popper-utils.js" t="Include" />
+            <e p="popper-utils.js.map" t="Include" />
+            <e p="popper-utils.min.js" t="Include" />
+            <e p="popper-utils.min.js.map" t="Include" />
+            <e p="popper.js" t="Include" />
+            <e p="popper.js.map" t="Include" />
+            <e p="popper.min.js" t="Include" />
+            <e p="popper.min.js.map" t="Include" />
+          </e>
+        </e>
+        <e p="Tenken.csproj" t="IncludeRecursive" />
+        <e p="Views" t="Include">
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="Admin" t="Include">
+            <e p="CategoryAdmin.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="Menu.cshtml" t="Include" />
+            <e p="ProductAdmin.cshtml" t="Include" />
+            <e p="UserAdmin.cshtml" t="Include" />
+          </e>
+          <e p="cart" t="Include">
+            <e p="Cart.cshtml" t="Include" />
+            <e p="Order.cshtml" t="Include" />
+            <e p="OrderStatus.cshtml" t="Include" />
+          </e>
+          <e p="home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+            <e p="Login.cshtml" t="Include" />
+            <e p="Register.cshtml" t="Include" />
+          </e>
+          <e p="product" t="Include">
+            <e p="Category.cshtml" t="Include" />
+            <e p="ProductDetail.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_AdminLayout.cshtml" t="Include" />
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+          <e p="Web.config" t="Include" />
+        </e>
+        <e p="Web.config" t="Include" />
+        <e p="Web.Debug.config" t="Include" />
+        <e p="Web.Release.config" t="Include" />
+      </e>
+      <e p="Tenken.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
