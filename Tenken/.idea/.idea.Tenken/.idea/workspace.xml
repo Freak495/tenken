@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7315b48-f47b-4055-b148-a9a252fc87c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Tenken/Controllers/SearchController.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tenken/Views/Search/Search.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/Tenken.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Tenken.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/js/common/globalFunc.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/js/common/globalFunc.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+            <state relative-caret-position="458">
+              <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -294,12 +283,12 @@
       <workItem from="1558861136210" duration="102000" />
       <workItem from="1559738086576" duration="136000" />
       <workItem from="1560571631077" duration="1433000" />
-      <workItem from="1560573103424" duration="1950000" />
+      <workItem from="1560573103424" duration="2064000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15996000" />
+    <option name="totallyTimeSpent" value="16110000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -315,7 +304,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2639485" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="1" />
@@ -329,7 +318,7 @@
       <window_info anchor="bottom" id="NuGet" order="9" weight="0.9590723" />
       <window_info anchor="bottom" id="Message" order="10" />
       <window_info anchor="bottom" id="Find" order="11" weight="0.21555252" />
-      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.21253406" />
+      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.21253406" />
       <window_info anchor="bottom" id="Debug" order="13" weight="0.23841962" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
@@ -928,8 +917,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+        <state relative-caret-position="458">
+          <caret line="63" column="35" selection-start-line="63" selection-start-column="35" selection-end-line="63" selection-end-column="35" />
         </state>
       </provider>
     </entry>

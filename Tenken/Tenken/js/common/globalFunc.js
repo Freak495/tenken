@@ -61,7 +61,7 @@ let removeCartItem = function (productInfoID, cartID) {
             if (request.status >= 200 && request.status < 400) {
                 window.location.href = '/Cart/Cart?cartID=' + cartID
             } else {
-                arlet('Some thing wrong!');
+                alert('Something\'s wrong!');
             }
         }
         var params = 'ProductInfoID=' + productInfoID + '&CartID=' + cartID;
