@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f7315b48-f47b-4055-b148-a9a252fc87c8" name="Default Changelist" comment="" />
+    <list default="true" id="f7315b48-f47b-4055-b148-a9a252fc87c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tenken/Controllers/SearchController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenken/Views/Search/Search.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Tenken/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Tenken.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Tenken.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/bin/Tenken.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Tenken/obj/Debug/Tenken.pdb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,100 +24,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml">
+        <entry file="file://$PROJECT_DIR$/Tenken/Views/Home/Index.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="455">
-              <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
-              <folding>
-                <marker date="1558856150945" expanded="true" signature="1:36" ph="@..." />
-                <marker date="1558856150945" expanded="true" signature="2496:3174" ph="@..." />
-                <marker date="1558856150945" expanded="true" signature="2548:2827" ph="{...}" />
-                <marker date="1558856150945" expanded="true" signature="2860:3174" ph="{...}" />
-                <marker date="1558856150945" expanded="true" signature="4862:10996" ph="@..." />
-                <marker date="1558856150945" expanded="true" signature="4910:10996" ph="{...}" />
-                <marker date="1558856150945" expanded="true" signature="5473:10531" ph="@..." />
-                <marker date="1558856150945" expanded="true" signature="5514:10531" ph="{...}" />
-                <marker date="1558856150945" expanded="true" signature="11041:13591" ph="@..." />
-                <marker date="1558856150945" expanded="true" signature="11159:13345" ph="{...}" />
-                <marker date="1558856150945" expanded="true" signature="13394:13591" ph="{...}" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="122" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="122" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml">
+        <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
-              <folding>
-                <marker date="1559739634311" expanded="true" signature="1:84" ph="@..." />
-                <marker date="1559739634311" expanded="true" signature="530:994" ph="@..." />
-                <marker date="1559739634311" expanded="true" signature="552:994" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="1072:6331" ph="@..." />
-                <marker date="1559739634311" expanded="true" signature="1094:6331" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="1515:1699" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="1724:2712" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="1809:2690" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="3051:3235" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="3260:4127" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="3345:4105" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="4727:4911" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="4936:6289" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="5021:6267" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="6367:6716" ph="@..." />
-                <marker date="1559739634311" expanded="true" signature="6398:6716" ph="{...}" />
-                <marker date="1559739634311" expanded="true" signature="6443:6712" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="76" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
-              <folding>
-                <marker date="1558856372680" expanded="true" signature="2474:3009" ph="@..." />
-                <marker date="1558856372680" expanded="true" signature="2525:2755" ph="{...}" />
-                <marker date="1558856372680" expanded="true" signature="2800:3009" ph="{...}" />
-                <marker date="1558856372680" expanded="true" signature="3343:3948" ph="@..." />
-                <marker date="1558856372680" expanded="true" signature="3394:3676" ph="{...}" />
-                <marker date="1558856372680" expanded="true" signature="3721:3948" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tenken/js/api/menu.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tenken/js/product/productDetail.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-              <folding>
-                <marker date="1558856490936" expanded="true" signature="468:698" ph="@..." />
-                <marker date="1558856490936" expanded="true" signature="490:595" ph="{...}" />
-                <marker date="1558856490936" expanded="true" signature="616:698" ph="{...}" />
-              </folding>
+            <state relative-caret-position="75">
+              <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -127,6 +59,12 @@
       <find>/home/in</find>
       <find>@switch</find>
       <find>viewbag.type</find>
+      <find>btn btn-primary submit-search text-center</find>
+      <find>ProductAPI/getProduct</find>
+      <find>ProductAPI/GetTopProduct</find>
+      <find>/Admin/Index</find>
+      <find>Newest</find>
+      <find>CommentAPI/commentMerge</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,18 +78,28 @@
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/CategoryAdmin.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/645A2306-7666-447E-988A-50155FE857F4/a4/b5309e87/Server.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CartController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Admin/UserAdmin.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/ProductController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Home/Register.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/UserAPIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Controllers/AdminController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Home/Login.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CommentAPIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CartAPIController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/CategoryAPIController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Web.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Providers/CartProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/App_Start/FilterConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Views/Search/Search.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/App_Start/BundleConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/App_Start/RouteConfig.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Controllers/SearchController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Tenken/Models/HttpResult.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Web.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Common/DBProvider.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
@@ -168,13 +116,19 @@
         <option value="$PROJECT_DIR$/Tenken/Views/Web.config" />
         <option value="$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs" />
         <option value="$PROJECT_DIR$/Tenken/Views/Shared/_AdminLayout.cshtml" />
-        <option value="$PROJECT_DIR$/Tenken/js/common/globalFunc.js" />
         <option value="$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml" />
         <option value="$PROJECT_DIR$/Tenken/js/product/productDetail.js" />
-        <option value="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" />
         <option value="$PROJECT_DIR$/Tenken/js/api/menu.js" />
         <option value="$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml" />
         <option value="$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/Controllers/AdminController.cs" />
+        <option value="$PROJECT_DIR$/Tenken/App_Start/RouteConfig.cs" />
+        <option value="$PROJECT_DIR$/Tenken/Controllers/SearchController.cs" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Search/Search.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/Tenken/Controllers/CategoryAPIController.cs" />
+        <option value="$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs" />
+        <option value="$PROJECT_DIR$/Tenken/js/common/globalFunc.js" />
       </list>
     </option>
   </component>
@@ -187,17 +141,21 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="9" />
-    <option name="y" value="32" />
-    <option name="width" value="1422" />
-    <option name="height" value="807" />
+    <option name="x" value="10" />
+    <option name="y" value="33" />
+    <option name="width" value="1420" />
+    <option name="height" value="805" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -210,13 +168,72 @@
               <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
             </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="js" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="js" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="js" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="common" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="js" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="js" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="product" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Product" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Tenken" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Search" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
       </pane>
-      <pane id="FileSystemExplorer" />
-      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -275,11 +292,13 @@
       <workItem from="1558842954833" duration="11934000" />
       <workItem from="1558861136210" duration="102000" />
       <workItem from="1559738086576" duration="136000" />
+      <workItem from="1560571631077" duration="1433000" />
+      <workItem from="1560573103424" duration="1950000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12358000" />
+    <option name="totallyTimeSpent" value="15996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -291,11 +310,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="825" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="826" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2639485" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="1" />
@@ -305,11 +324,11 @@
       <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Performance Profiler" order="7" />
-      <window_info anchor="bottom" id="Build" order="8" weight="0.32833788" />
+      <window_info anchor="bottom" id="Build" order="8" weight="0.32561308" />
       <window_info anchor="bottom" id="NuGet" order="9" weight="0.9590723" />
       <window_info anchor="bottom" id="Message" order="10" />
-      <window_info anchor="bottom" id="Find" order="11" />
-      <window_info anchor="bottom" id="Run" order="12" weight="0.21282402" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.21555252" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.21253406" />
       <window_info anchor="bottom" id="Debug" order="13" weight="0.23841962" />
       <window_info anchor="bottom" id="Cvs" order="14" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="15" weight="0.4" />
@@ -336,25 +355,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CartAPIController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
-          <folding>
-            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
-            <marker date="1558841070498" expanded="true" signature="233:1892" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="283:1890" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="464:547" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="653:770" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="894:1027" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1148:1234" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1339:1424" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1547:1636" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1750:1884" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/Global.asax">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -372,51 +372,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
-          <folding>
-            <marker date="1558841070498" expanded="false" signature="6:80" ph="..." />
-            <marker date="1558841070498" expanded="true" signature="157:2807" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="199:377" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="413:604" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="436:494" ph="/* ViewBag.Email = &quot;&quot;; ... */" />
-            <marker date="1558841070498" expanded="true" signature="689:1276" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="843:1074" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1091:1266" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1315:1554" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1694:2594" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1752:1834" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1896:1992" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="2053:2135" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="2256:2332" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="2349:2432" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="2631:2801" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="23" column="72" selection-start-line="23" selection-end-line="24" />
-          <folding>
-            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
-            <marker date="1558841070498" expanded="true" signature="233:2182" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="286:2180" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="498:792" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="596:755" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="907:988" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1108:1204" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1330:1453" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1597:1700" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1844:1935" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="2050:2174" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/Common/DBProvider.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -431,40 +386,6 @@
             <marker date="1558841070490" expanded="true" signature="596:665" ph="{...}" />
             <marker date="1558841070490" expanded="true" signature="776:1266" ph="{...}" />
             <marker date="1558841070490" expanded="true" signature="1102:1190" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="29" column="72" selection-start-line="29" selection-start-column="72" selection-end-line="29" selection-end-column="72" />
-          <folding>
-            <marker date="1558848335167" expanded="false" signature="6:213" ph="..." />
-            <marker date="1558848335167" expanded="true" signature="244:9354" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="279:9352" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="374:1792" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="456:1604" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="851:1590" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="1636:1726" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="1875:3205" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="1945:3017" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="2336:3003" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="3049:3139" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="3320:4808" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="3402:4620" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="3867:4606" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="4652:4742" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="4905:6333" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="4987:6145" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="5392:6131" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="6177:6267" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="6419:8082" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="6495:7760" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="7792:8016" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="8167:9346" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="8243:9024" ph="{...}" />
-            <marker date="1558848335167" expanded="true" signature="9056:9280" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -519,59 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="96" column="18" selection-start-line="96" selection-start-column="18" selection-end-line="96" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/AdminController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="69" column="12" selection-start-line="69" selection-start-column="12" selection-end-line="69" selection-end-column="12" />
-          <folding>
-            <marker date="1558841070497" expanded="false" signature="6:177" ph="..." />
-            <marker date="1558841070497" expanded="true" signature="255:7683" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="297:716" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="414:612" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="629:706" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="752:1113" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="869:946" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="963:1103" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="1200:1786" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="1450:1578" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="1595:1776" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="1824:2073" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="1941:2017" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="2123:3013" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="2240:2908" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="2288:2767" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="2925:3002" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3063:3330" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3102:3173" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3190:3293" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3430:3947" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3556:3624" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3641:3717" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="3765:3876" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4005:4387" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4048:4219" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4236:4350" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4485:5089" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4555:4655" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4766:4834" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="4851:4927" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5145:5580" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5187:5264" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5281:5391" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5628:5841" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5723:5831" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="5893:6004" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="6175:7677" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="6249:6664" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="6721:7031" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="7147:7215" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="7232:7308" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="7445:7640" ph="{...}" />
-            <marker date="1558841070497" expanded="true" signature="7523:7626" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,32 +518,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CommentAPIController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="37" column="34" lean-forward="true" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding>
-            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
-            <marker date="1558841070498" expanded="true" signature="233:1315" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="286:1313" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="489:580" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="692:782" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="944:1307" ph="{...}" />
-            <marker date="1558841070498" expanded="true" signature="1011:1196" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/js/common/adminMenu.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-161" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="48" column="29" lean-forward="true" selection-start-line="48" selection-start-column="29" selection-end-line="48" selection-end-column="29" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/645A2306-7666-447E-988A-50155FE857F4/a4/b5309e87/Server.cs">
@@ -685,50 +530,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="76" selection-start-line="47" selection-start-column="76" selection-end-line="47" selection-end-column="76" />
-          <folding>
-            <marker date="1558856372680" expanded="true" signature="2474:3009" ph="@..." />
-            <marker date="1558856372680" expanded="true" signature="2525:2755" ph="{...}" />
-            <marker date="1558856372680" expanded="true" signature="2800:3009" ph="{...}" />
-            <marker date="1558856372680" expanded="true" signature="3343:3948" ph="@..." />
-            <marker date="1558856372680" expanded="true" signature="3394:3676" ph="{...}" />
-            <marker date="1558856372680" expanded="true" signature="3721:3948" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/js/api/menu.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-          <folding>
-            <marker date="1558856490936" expanded="true" signature="468:698" ph="@..." />
-            <marker date="1558856490936" expanded="true" signature="490:595" ph="{...}" />
-            <marker date="1558856490936" expanded="true" signature="616:698" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tenken/js/product/productDetail.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/ProductDetail.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="455">
+        <state relative-caret-position="1425">
           <caret line="95" column="60" selection-start-line="95" selection-start-column="60" selection-end-line="95" selection-end-column="60" />
           <folding>
             <marker date="1558856150945" expanded="true" signature="1:36" ph="@..." />
@@ -748,7 +552,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Tenken/Views/Admin/Menu.cshtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
+        <state relative-caret-position="525">
           <caret line="35" column="52" selection-start-line="35" selection-start-column="52" selection-end-line="35" selection-end-column="52" />
           <folding>
             <marker date="1559739634311" expanded="true" signature="1:84" ph="@..." />
@@ -769,6 +573,362 @@
             <marker date="1559739634311" expanded="true" signature="6398:6716" ph="{...}" />
             <marker date="1559739634311" expanded="true" signature="6443:6712" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/api/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/product/productDetail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1767">
+          <caret line="7369" column="40" selection-start-line="7369" selection-start-column="40" selection-end-line="7369" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Models/HttpResult.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1558841070500" expanded="false" signature="6:96" ph="..." />
+            <marker date="1558841070500" expanded="true" signature="124:289" ph="{...}" />
+            <marker date="1558841070500" expanded="true" signature="154:287" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Product/Category.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <marker date="1558856490936" expanded="true" signature="468:698" ph="@..." />
+            <marker date="1558856490936" expanded="true" signature="490:595" ph="{...}" />
+            <marker date="1558856490936" expanded="true" signature="616:698" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CartAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="54" column="28" selection-start-line="54" selection-start-column="28" selection-end-line="54" selection-end-column="28" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="283:1890" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="464:547" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="653:770" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="894:1027" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1148:1234" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1339:1424" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1547:1636" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1750:1884" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/AdminController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+          <folding>
+            <marker date="1558841070497" expanded="false" signature="6:177" ph="..." />
+            <marker date="1558841070497" expanded="true" signature="207:7685" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="255:7683" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="297:716" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="414:612" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="629:706" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="752:1113" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="869:946" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="963:1103" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1200:1786" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1450:1578" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1595:1776" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1824:2073" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="1941:2017" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2123:3013" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2240:2908" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2288:2767" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="2925:3002" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3063:3330" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3102:3173" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3190:3293" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3430:3947" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3556:3624" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3641:3717" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="3765:3876" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4005:4387" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4048:4219" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4236:4350" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4485:5089" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4555:4655" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4766:4834" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="4851:4927" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5145:5580" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5187:5264" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5281:5391" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5628:5841" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5723:5831" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="5893:6004" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6175:7677" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6249:6664" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="6721:7031" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7147:7215" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7232:7308" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7445:7640" ph="{...}" />
+            <marker date="1558841070497" expanded="true" signature="7523:7626" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CartController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:92" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="122:1892" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="169:1890" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="220:385" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="431:550" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="652:1443" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="724:820" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="872:1025" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1166:1234" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1251:1327" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1496:1884" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1732:1807" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/App_Start/BundleConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1558841070490" expanded="false" signature="6:48" ph="..." />
+            <marker date="1558841070490" expanded="true" signature="66:1189" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="98:1187" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="271:1181" ph="{...}" />
+            <marker date="1558841070490" expanded="true" signature="554:761" ph="/* Use the development version of Modernizr to develop with and learn from. Then, when you're ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/App_Start/RouteConfig.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="43" lean-forward="true" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding>
+            <marker date="1560574455027" expanded="false" signature="6:132" ph="..." />
+            <marker date="1560574455027" expanded="true" signature="150:572" ph="{...}" />
+            <marker date="1560574455027" expanded="true" signature="181:570" ph="{...}" />
+            <marker date="1560574455027" expanded="true" signature="253:564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/UserAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding>
+            <marker date="1558841070499" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070499" expanded="true" signature="233:1687" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="283:1685" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="497:607" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="749:856" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="969:1063" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="1167:1252" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="1337:1445" ph="{...}" />
+            <marker date="1558841070499" expanded="true" signature="1553:1678" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Providers/ProductProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="80" column="30" lean-forward="true" selection-start-line="80" selection-start-column="30" selection-end-line="80" selection-end-column="30" />
+          <folding>
+            <marker date="1558848335167" expanded="false" signature="6:213" ph="..." />
+            <marker date="1558848335167" expanded="true" signature="244:9354" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="279:9352" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="374:1792" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="456:1604" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="851:1590" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1636:1726" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1875:3205" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="1945:3017" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="2336:3003" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3049:3139" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3320:4808" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3402:4620" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="3867:4606" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4652:4742" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4905:6333" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="4987:6145" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="5392:6131" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6177:6267" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6419:8082" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="6495:7760" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="7792:8016" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="8167:9346" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="8243:9024" ph="{...}" />
+            <marker date="1558848335167" expanded="true" signature="9056:9280" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:80" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="110:2809" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="157:2807" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="199:377" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="413:604" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="436:494" ph="/* ViewBag.Email = &quot;&quot;; ... */" />
+            <marker date="1558841070498" expanded="true" signature="689:1276" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="843:1074" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1091:1266" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1315:1554" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1694:2594" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1752:1834" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1896:1992" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2053:2135" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2256:2332" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2349:2432" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="2631:2801" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/ProductController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:42" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="72:826" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="122:824" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="185:437" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="490:818" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="677:781" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="64" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+          <folding>
+            <marker date="1560574255153" expanded="true" signature="2517:3052" ph="@..." />
+            <marker date="1560574255153" expanded="true" signature="2568:2798" ph="{...}" />
+            <marker date="1560574255153" expanded="true" signature="2843:3052" ph="{...}" />
+            <marker date="1560574255153" expanded="true" signature="3386:3991" ph="@..." />
+            <marker date="1560574255153" expanded="true" signature="3437:3719" ph="{...}" />
+            <marker date="1560574255153" expanded="true" signature="3764:3991" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CategoryAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding>
+            <marker date="1560574447558" expanded="false" signature="6:203" ph="..." />
+            <marker date="1560574447558" expanded="true" signature="233:1492" ph="{...}" />
+            <marker date="1560574447558" expanded="true" signature="274:1490" ph="{...}" />
+            <marker date="1560574447558" expanded="true" signature="1358:1484" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/ProductAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="46" column="72" lean-forward="true" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
+          <folding>
+            <marker date="1560574500816" expanded="false" signature="6:203" ph="..." />
+            <marker date="1560574500816" expanded="true" signature="233:2161" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="286:2159" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="498:792" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="596:755" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="907:988" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="1108:1204" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="1338:1432" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="1576:1679" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="1823:1914" ph="{...}" />
+            <marker date="1560574500816" expanded="true" signature="2029:2153" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Search/Search.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="54" lean-forward="true" selection-start-line="12" selection-start-column="54" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/CommentAPIController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="30" column="39" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="39" />
+          <folding>
+            <marker date="1558841070498" expanded="false" signature="6:203" ph="..." />
+            <marker date="1558841070498" expanded="true" signature="233:1315" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="286:1313" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="489:580" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="692:782" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="944:1307" ph="{...}" />
+            <marker date="1558841070498" expanded="true" signature="1011:1196" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Controllers/SearchController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="61" lean-forward="true" selection-start-line="10" selection-start-column="61" selection-end-line="10" selection-end-column="61" />
+          <folding>
+            <marker date="1560574066042" expanded="true" signature="6:76" ph="..." />
+            <marker date="1560574066042" expanded="true" signature="106:448" ph="{...}" />
+            <marker date="1560574066042" expanded="true" signature="155:446" ph="{...}" />
+            <marker date="1560574066042" expanded="true" signature="216:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="122" selection-start-line="23" selection-start-column="112" selection-end-line="23" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tenken/js/common/globalFunc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="42" lean-forward="true" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
         </state>
       </provider>
     </entry>

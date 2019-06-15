@@ -41,6 +41,7 @@
           <e p="HomeController.cs" t="Include" />
           <e p="ProductAPIController.cs" t="Include" />
           <e p="ProductController.cs" t="Include" />
+          <e p="SearchController.cs" t="Include" />
           <e p="UserAPIController.cs" t="Include" />
         </e>
         <e p="css" t="Include">
@@ -274,6 +275,9 @@
           <e p="product" t="Include">
             <e p="Category.cshtml" t="Include" />
             <e p="ProductDetail.cshtml" t="Include" />
+          </e>
+          <e p="Search" t="Include">
+            <e p="Search.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">
             <e p="_AdminLayout.cshtml" t="Include" />

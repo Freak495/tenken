@@ -42,9 +42,9 @@ namespace Tenken.Controllers
 
         [HttpGet]
         [Route("ProductAPI/getProduct")]
-        public static object GetProductByName(string productName)
+        public static IList<Product> GetProductByName(string productName)
         {
-            return JsonConvert.SerializeObject(ProductProvider.getProduct(dbConnection, productName));
+            return ProductProvider.getProduct(dbConnection, productName);
         }
 
         [HttpGet]
