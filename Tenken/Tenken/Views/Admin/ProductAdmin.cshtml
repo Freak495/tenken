@@ -21,7 +21,7 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8 offset-sm-2 text-center colorlib-heading admin-heading">
-                <h2>Edit user</h2>
+                <h2>Edit product</h2>
             </div>
         </div>
         <div id="main-panel">
@@ -31,7 +31,7 @@
                     {
                         <p class="arlet">@ViewBag.Error</p>
                     }
-                    <div style="display: none">
+                    <div class="form-group" style="display: none">
                         <input class="form-control" id="sso_login_form_account" name="productID" type="text" value="@ViewBag.Product.ProductID">
                     </div>
                     <div id="line-account" class="line form-group">
@@ -78,7 +78,7 @@
                         <input id="btn btn-primary confirm-btn" type="submit" onclick="btnUploadClick" value="Save" class="btn">
                     </div>
                     <div id="line-btn" class="line btnLine">
-                        <input id="btn btn-primary" value="Cancel" class="btn" onclick="">
+                        <a href="/Admin/Index" class="btn">Cancel</a>
                     </div>
                 </form>
             </div>

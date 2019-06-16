@@ -194,7 +194,7 @@ namespace Tenken.Controllers
             if (ImageURL != null && ImageURL.ContentLength > 0)
             {
                 // create file name mapping with product name
-                var fileName = productName + "." + getExtension(Path.GetFileName(ImageURL.FileName));
+                var fileName = Path.GetFileName(ImageURL.FileName);
                 // store the file inside ~/App_Data/uploads folder
                 var path = Path.Combine(Server.MapPath("~/images"), fileName);
                 checkFileExist(path);
@@ -207,7 +207,7 @@ namespace Tenken.Controllers
                 Description = description,
                 Price = price,
                 CategoryID = categoryid,
-                ImageName = productName + "." + getExtension(Path.GetFileName(ImageURL.FileName))
+                ImageName = Path.GetFileName(ImageURL.FileName)
             };
             HttpResult result = ProductAPIController.ProductMerge(ViewBag.Product);
             if (result.Result)

@@ -8,14 +8,14 @@
     <div class="container">
         <div class="row">
             <div class="col-sm-8 offset-sm-2 text-center colorlib-heading">
-                <h2>(string)@ViewBag.Type</h2>
+                <h2>@ViewBag.Type</h2>
             </div>
         </div>
         <div class="row">
             <div class="col-sm-7 col-md-9">
             </div>
             <div class="col-sm-5 col-md-3">
-                @switch (ViewBag.Type)
+                @switch ((string) ViewBag.Type)
                 {
                     case "Category":
                         <a class="btn btn-primary btn-add-new text-center" href="/Admin/CategoryAdmin?categoryID=0">Add New Category</a>
@@ -27,7 +27,7 @@
             </div>
         </div>
         <table id="customers">
-            @switch (ViewBag.Type)
+            @switch ((string) ViewBag.Type)
             {
                 case "User":
                     <tr>
