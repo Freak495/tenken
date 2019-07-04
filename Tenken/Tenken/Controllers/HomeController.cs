@@ -13,6 +13,42 @@ namespace Tenken.Controllers
             ViewBag.Size = ViewBag.ProductList.Count;
             return View();
         }
+         public ActionResult Lipstick()
+        {
+            ViewBag.ProductList = ProductAPIController.GetProductByCategory(3);
+            ViewBag.Size = ViewBag.ProductList.Count;
+            return View();
+        }
+
+        public ActionResult Cleaner()
+        {
+            ViewBag.ProductList = ProductAPIController.GetProductByCategory(4);
+            ViewBag.Size = ViewBag.ProductList.Count;
+            return View();
+        }
+        public ActionResult Cushion()
+        {
+            ViewBag.ProductList = ProductAPIController.GetProductByCategory(1);
+            ViewBag.Size = ViewBag.ProductList.Count;
+            return View();
+        }
+        public ActionResult M_E()
+        {
+            ViewBag.ProductList = ProductAPIController.GetProductByCategory(2);
+            ViewBag.Size = ViewBag.ProductList.Count;
+            return View();
+        }
+        public ActionResult Result()
+        {
+            string key = Request.QueryString["txtName"];
+            if (key!= null)
+            {
+                ViewBag.ProductList = ProductAPIController.GetProductByName(key);
+                ViewBag.Size = ViewBag.ProductList.Count;
+
+            }
+        
+            return View();
         public ActionResult Login()
         {
             //ViewBag.Email = "";
